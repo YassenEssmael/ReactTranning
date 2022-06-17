@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 12,
+    "editor.tabSize": 4,
+    "screencastMode.verticalOffset": 20,
+    "screencastMode.fontSize": 56,
+    "debug.console.fontSize": 14,
+    "workbench.settings.openDefaultSettings": false,
+    "screencastMode.mouseIndicatorSize": 20,
+    "editor.accessibilityPageSize": 10,
+    "editor.minimap.maxColumn": 120,
+    "editor.fontWeight": "normal",
+    "editor.minimap.scale": 2
+}
